@@ -24,10 +24,10 @@ if you find this library useful for your research. This project use this data [b
     }
 
 ## Group members
-1. 6310412022 (30%) review & MLP and result
-2. 6410422007 (17.5%) review & Data exploration after cleaning data and Discussion
-3. 6410422016 (17.5%) review & Tradition ML and Conclusion
-4. 6410422022 (17.5%) review & Correlation & Feature selection
-5. 6410422030 (17.5%) review & imbalanced data preparation
+1. 6310412022 (22%) review & MLP and result
+2. 6410422007 (19.5%) review & Data exploration after cleaning data and Discussion
+3. 6410422016 (19.5%) review & Tradition ML and Conclusion
+4. 6410422022 (19.5%) review & Correlation & Feature selection
+5. 6410422030 (19.5%) review & imbalanced data preparation
 
 This project is a part of subject DADS7202. Data Analytics and Data Science. NIDA
